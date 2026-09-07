@@ -1,0 +1,4 @@
+My Software Engineering Profile
+
+I am learning Git and GitHub. 
+I will use Git for version control throughout this course. 
